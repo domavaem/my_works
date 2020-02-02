@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/domavaem/my_works/static/css/main.04b8a195.chunk.css",
+    "main.js": "/domavaem/my_works/static/js/main.6234f5bc.chunk.js",
+    "main.js.map": "/domavaem/my_works/static/js/main.6234f5bc.chunk.js.map",
+    "runtime-main.js": "/domavaem/my_works/static/js/runtime-main.ca7dfa95.js",
+    "runtime-main.js.map": "/domavaem/my_works/static/js/runtime-main.ca7dfa95.js.map",
+    "static/js/2.331a5264.chunk.js": "/domavaem/my_works/static/js/2.331a5264.chunk.js",
+    "static/js/2.331a5264.chunk.js.map": "/domavaem/my_works/static/js/2.331a5264.chunk.js.map",
+    "index.html": "/domavaem/my_works/index.html",
+    "precache-manifest.f6bccab1a27e719c6913f5a8952047f0.js": "/domavaem/my_works/precache-manifest.f6bccab1a27e719c6913f5a8952047f0.js",
+    "service-worker.js": "/domavaem/my_works/service-worker.js",
+    "static/css/main.04b8a195.chunk.css.map": "/domavaem/my_works/static/css/main.04b8a195.chunk.css.map",
+    "static/js/2.331a5264.chunk.js.LICENSE.txt": "/domavaem/my_works/static/js/2.331a5264.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca7dfa95.js",
+    "static/js/2.331a5264.chunk.js",
+    "static/css/main.04b8a195.chunk.css",
+    "static/js/main.6234f5bc.chunk.js"
+  ]
+}
